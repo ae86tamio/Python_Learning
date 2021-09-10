@@ -28,6 +28,6 @@ a_array = np.array([1,2,3])
 b_array = np.array([4,5,6])
 
 # %%
-# for文消しました
+# for文消しましたよ！
 
 
